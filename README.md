@@ -44,6 +44,6 @@
 
 [gcd(x,y)为质数](templates/p2568.cpp) ([洛谷p2568](https://www.luogu.com.cn/problem/P2568)) ($\sum_{}^{} [gcd(x,y)=p]$)
 
-[gcd求和](templates/p2398.cpp) ([洛谷p2398](https://www.luogu.com.cn/problem/P2398)) ($\sum_{i=1}^{n}\sum_{j=1}^{n} gcd(i,j)$)
+[gcd(x,y)求和](templates/p2398.cpp) ([洛谷p2398](https://www.luogu.com.cn/problem/P2398)) ($\sum_{i=1}^{n}\sum_{j=1}^{n} gcd(i,j)$)
 
 [lcm(i,n)求和](templates/p1891.cpp) ([洛谷p1891](https://www.luogu.com.cn/problem/P1891)) ($\sum_{i=1}^{n} lcm(i,n)$)
