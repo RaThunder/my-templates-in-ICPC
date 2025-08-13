@@ -4,9 +4,9 @@
 
 ##### 图论
 
-[单源最短路（标准版）](templates/p4779.cpp) ([洛谷p4779](https://www.luogu.com.cn/problem/P4779))
+$[单源最短路（标准版）](templates/p4779.cpp) ([洛谷p4779](https://www.luogu.com.cn/problem/P4779))$
 
-[最小生成树](templates/p3366.cpp) ([洛谷p3366](https://www.luogu.com.cn/problem/P3366))
+$[最小生成树](templates/p3366.cpp) ([洛谷p3366](https://www.luogu.com.cn/problem/P3366))$
 
 [常规并查集](templates/p3367.cpp) ([洛谷p3367](https://www.luogu.com.cn/problem/P3367))
 
